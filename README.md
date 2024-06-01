@@ -9,7 +9,6 @@ https://github.com/VictoriaOlejarz/Data-Science-Consulting/blob/main/consulting.
 ## Official Project writeup:
 https://github.com/VictoriaOlejarz/Data-Science-Consulting/blob/main/docs/project_writeup.pdf
 
-https://github.com/VictoriaOlejarz/Data-Science-Consulting/blob/cca7ff3b7074370d4145f963cbf82beddb014e23/docs/project_writeup.pdf
 
 ## Languages used:
 - R
